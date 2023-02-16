@@ -22,6 +22,6 @@ OOP Graphical Space Game built in Processing 4
 
 OOP Graphical Car Tester built in processing 4
 
-![Running Game](https://github.com/andrewhopkins9/programingportfolio/blob/main/images/CarTester.png)
+![Running Game](https://raw.githubusercontent.com/andrewhopkins9/programingportfolio/main/images/CarTester.png)
 
 [Car Tester Source Code](https://github.com/andrewhopkins9/programingportfolio/tree/main/src/CarTester)
