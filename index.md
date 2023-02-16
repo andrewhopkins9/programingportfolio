@@ -6,7 +6,7 @@
 
 OOP Graphical Calculator built in Processing 4
 
-![Running Calculator](https://github.com/andrewhopkins9/programingportfolio/blob/main/images/calc.png)
+![Running Calculator](https://github.com/andrewhopkins9/programingportfolio/blob/main/images/calc.png?raw=true)
 
 [Calculator Source Code](https://github.com/andrewhopkins9/programingportfolio/tree/main/src/calc)
 
