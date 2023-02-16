@@ -14,7 +14,7 @@ OOP Graphical Calculator built in Processing 4
 
 OOP Graphical Space Game built in Processing 4
 
-![Running Game](https://github.com/andrewhopkins9/programingportfolio/blob/main/images/SpaceGame.png)
+![Running Game](https://github.com/andrewhopkins9/programingportfolio/blob/main/images/SpaceGame.png?raw=true)
 
 [Space Game Source Code](https://github.com/andrewhopkins9/programingportfolio/tree/main/src/SpaceGame)
 
